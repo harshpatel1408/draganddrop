@@ -1,4 +1,4 @@
-# draganddrop
+# Drag and drop
 
 Steps to run the project: 
 - Clone repo
